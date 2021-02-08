@@ -18,10 +18,10 @@ We will also add a short segment on cool grants (if any) within the related area
 We strongly encourage departments to each take over the sessions, champion talks from reserachers within their groups, and be part of the leadership of this club. 
 
 #### For any questions/comments/feedback please reach out to:
-Francesca Pratt  Francesca.Pratt@nyulangone.org<br>
-Sophia Giardina  Sophia.Giardina@nyulangone.org<br>
-Narges Razavian Narges.Razavian@nyulangone.org<br>
-Yindalon Aphinyanaphongs Yin.A@nyulangone.org<br>
+Francesca Pratt  [Francesca.Pratt@nyulangone.org](mailto:Francesca.Pratt@nyulangone.org)<br>
+Sophia Giardina  [Sophia.Giardina@nyulangone.org](mailto:Sophia.Giardina@nyulangone.org)<br>
+Narges Razavian [Narges.Razavian@nyulangone.org](mailto:Narges.Razavian@nyulangone.org)<br>
+Yindalon Aphinyanaphongs [Yin.A@nyulangone.org](mailto:Yin.A@nyulangone.org)<br>
 
 #### Tentative schedule (will be updated regularly):
 
@@ -31,5 +31,5 @@ Feb 19th 2021 <br><br> Theme:<br> Introduction & AI dos and donts  |  Papers(ten
 | March 5th 2021 |  TBD   |
 | March 19th 2021 |  TBD   |
 | April 2nd 2021 |  TBD   |
-| April 16nd 2021 |  TBD   |
+| April 16th 2021 |  TBD   |
 
